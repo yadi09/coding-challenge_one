@@ -34,6 +34,7 @@ This repository was created for practicing coding, and it concerns what we have 
    Prototype: int countVowels( char* str);
    # Example: -------------
    ---Input: "Hello, World!"
+   
    ---Output: 3
 
 
