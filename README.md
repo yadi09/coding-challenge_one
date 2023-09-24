@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ![115946188-cf20fe00-a4d4-11eb-811a-4b9d8f91fa34](https://github.com/yadi09/coding-challenge_one/assets/140100340/ce00f70c-556e-4697-a014-d57ea982e898)
 # coding-challenge_one
 This repository was created for practicing coding, and it concerns what we have learned in the ALX software engineering program.
 
@@ -38,9 +38,9 @@ This repository was created for practicing coding, and it concerns what we have 
    * Prototype: int countVowels( char* str);
    * Example: -------------
      
-   --Input: "Hello, World!"
+          --Input: "Hello, World!"
    
-   --Output: 3
+          --Output: 3
 #
 #
 #
@@ -59,15 +59,15 @@ This repository was created for practicing coding, and it concerns what we have 
    
  * Example: ------
    
-   --int arr[] = {1, 2, 3, 2, 4, 3, 5};
+         --int arr[] = {1, 2, 3, 2, 4, 3, 5};
    
-   --int size = 7;
+         --int size = 7;
 
-   --int newSize = removeDuplicates(arr, size);
+         --int newSize = removeDuplicates(arr, size);
 
-   --// arr should be {1, 2, 3, 4, 5}
+         --// arr should be {1, 2, 3, 4, 5}
 
-   --// newSize should be 5
+         --// newSize should be 5
 #
 #
 #
@@ -81,11 +81,11 @@ This repository was created for practicing coding, and it concerns what we have 
  * Prototype: void removeSpaces(char* str);
  * Example: -----
 
-   --char str[] = "Hello, World! How are you?";
+       --char str[] = "Hello, World! How are you?";
 
-   --removeSpaces(str);
+       --removeSpaces(str);
 
-   --// str should be "Hello,World!Howareyou?"
+       --// str should be "Hello,World!Howareyou?"
 #
 #
 #
@@ -99,11 +99,11 @@ This repository was created for practicing coding, and it concerns what we have 
  * Prototype: void removeDuplicates(char* str);
  * Example: -----
 
-   --char str[] = "Hello, World!";
+       --char str[] = "Hello, World!";
 
-   --removeDuplicates(str);
+       --removeDuplicates(str);
 
-   --// str should be "Helo, Wrd!"
+       --// str should be "Helo, Wrd!"
 #
 #
 #
@@ -119,15 +119,15 @@ This repository was created for practicing coding, and it concerns what we have 
  * Prototype: void rotateArray(int* arr, int size, int rotationCount);
  * Example: ----
 
-   --int arr[] = {1, 2, 3, 4, 5};
+        --int arr[] = {1, 2, 3, 4, 5};
 
-   --int size = 5;
+        --int size = 5;
 
-   --int rotationCount = 2;
+        --int rotationCount = 2;
 
-   --rotateArray(arr, size, rotationCount);
+        --rotateArray(arr, size, rotationCount);
 
-   --// arr should be {4, 5, 1, 2, 3}
+        --// arr should be {4, 5, 1, 2, 3}
 #
 #
           ########################  Good luck, guys! I hope you will invite me to code with you again soon. ########################
