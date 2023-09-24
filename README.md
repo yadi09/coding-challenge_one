@@ -19,7 +19,7 @@ This repository was created for practicing coding, and it concerns what we have 
    - question three (3)  ==  <--add(edit) your user name here-->
    - question four (4)  ==  <--add(edit) your user name here-->
    - question five (5)  ==  <--add(edit) your user name here-->
-        example :  question one (1) == yadi09  <--this is just for example-->
+        * example :  question one (1) == yadi09  <--this is just for example-->
 6. Complete your question on your local computer and push it to the repository.
 
 
