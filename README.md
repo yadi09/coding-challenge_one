@@ -32,7 +32,7 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file 
   
    * Prototype: int countVowels( char* str);
-   # Example: -------------
+   * Example: -------------
    --Input: "Hello, World!"
    
    --Output: 3
