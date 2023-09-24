@@ -10,9 +10,9 @@ This repository was created for practicing coding, and it concerns what we have 
 
 #### follow the following steps ####
 
-1. Clone the repository to your local computer.
+1. Clone the repository to your local computer. in the repository config your email < git config user.gmail <your email>>
 2. Choose only one question from the bellow questions.
-4. Add your user name to the README file with the question number you choose.
+3. Add your user name to the README file with the question number you choose.
    ### add your user name ###
    - question one (1)  ==  <--add(edit) your user name here-->
    - question two (2)  ==  <--add(edit) your user name here-->
@@ -20,7 +20,9 @@ This repository was created for practicing coding, and it concerns what we have 
    - question four (4)  ==  <--add(edit) your user name here-->
    - question five (5)  ==  <--add(edit) your user name here-->
         * example :  question one (1) == yadi09  <--this is just for example-->
-6. Complete your question on your local computer and push it to the repository.
+4. create a branch in your local commputer and working on that
+6. Complete your question on your local computer within the new branch and push it to the repository.
+7. and on your github account request pull (pull request)
 
 #
 #
