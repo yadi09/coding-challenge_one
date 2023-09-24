@@ -50,6 +50,7 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file and push it to repo
 
  * Prototype: int removeDuplicates(int* arr, int size);
+   
  * Example: ------
    
    --int arr[] = {1, 2, 3, 2, 4, 3, 5};
