@@ -39,10 +39,12 @@ This repository was created for practicing coding, and it concerns what we have 
    --Input: "Hello, World!"
    
    --Output: 3
-
-
-
-
+#
+#
+#
+#
+#
+#
 
 2, Challenge: Remove Duplicates from Array
 
@@ -64,10 +66,11 @@ This repository was created for practicing coding, and it concerns what we have 
    --// arr should be {1, 2, 3, 4, 5}
 
    --// newSize should be 5
-
-
-
-
+#
+#
+#
+#
+#
 3, Challenge: Remove Spaces from String
 
    Write a C function removeSpaces that accepts a string as an argument and removes all the spaces from it. The function should modify the original string in-place using pointers.
@@ -81,10 +84,11 @@ This repository was created for practicing coding, and it concerns what we have 
    --removeSpaces(str);
 
    --// str should be "Hello,World!Howareyou?"
-
-
-
-
+#
+#
+#
+#
+#
  4, Challenge: Remove Duplicates from String
 
    Write a C function removeDuplicates that accepts a string as an argument and removes any duplicate characters from it. The function should modify the original string in-place using pointers.
@@ -98,11 +102,12 @@ This repository was created for practicing coding, and it concerns what we have 
    --removeDuplicates(str);
 
    --// str should be "Helo, Wrd!"
-
-
-
-
-
+#
+#
+#
+#
+#
+#
 5, Challenge: Array Rotation
 
    Write a C function rotateArray that accepts an array of integers and its size, along with a rotation count.
