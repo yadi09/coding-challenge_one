@@ -31,8 +31,8 @@ This repository was created for practicing coding, and it concerns what we have 
    Write a C function countVowels that accepts a string as an argument and returns the count of vowels (a, e, i, o, u, A, E, I, O, U) present in the string.
    and also create your test main file 
   
-   Prototype: int countVowels( char* str);
-   Example:  -Input: "Hello, World!"
+   #Prototype: int countVowels( char* str);
+   #Example:  -Input: "Hello, World!"
              -Output: 3
 
 
