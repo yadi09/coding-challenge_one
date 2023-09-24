@@ -10,26 +10,30 @@ This repository was created for practicing coding, and it concerns what we have 
 
 #### follow the following steps ####
 
-1. Clone the repository to your local computer. in the repository config your email < git config user.gmail <your email>>
-2. Choose only one question from the bellow questions.
-3. Add your user name to the README file with the question number you choose.
-   ### add your user name ###
-   - question one (1)  ==  <--add(edit) your user name here-->
-   - question two (2)  ==  <--add(edit) your user name here-->
-   - question three (3)  ==  <--add(edit) your user name here-->
-   - question four (4)  ==  <--add(edit) your user name here-->
-   - question five (5)  ==  <--add(edit) your user name here-->
-        * example :  question one (1) == yadi09  <--this is just for example-->
-4. create a branch in your local commputer and working on that
-6. Complete your question on your local computer within the new branch and push it to the repository.
-7. and on your github account request pull (pull request)
+1. Add some discription about yourself bellow
+   * Name:
+   * UserName:
+   * tell as about yourself:
+     -
+     -
+     -
+   * social media links:
+     -
+     -
+     -
+2. Clone the repository to your local computer. in the repository and config your email < git config user.gmail <your email>> use that use also for github account
+3. create a branch in your local commputer and working on that (to protect main branch).
+6. Complete the tasks on your local computer within the new branch and push it to the repository.
+7. and on your github account request pull (pull request). (to merge to main branch if you sure about your code)
+8. done..........................get started (if you have any question or confusion let me know)
 
 #
 #
 #
 #
 #
-
+    #### Coding-Challenge_One ######
+#
 1, Challenge: Count Vowels
 
    Write a C function countVowels that accepts a string as an argument and returns the count of vowels (a, e, i, o, u, A, E, I, O, U) present in the string.
