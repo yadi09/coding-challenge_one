@@ -32,8 +32,8 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file 
   
    Prototype: int countVowels( char* str);
-   Example:    Input: "Hello, World!"
-                Output: 3
+   Example:  -Input: "Hello, World!"
+             -Output: 3
 
 
 
@@ -47,11 +47,11 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file and push it to repo
 
  Prototype: int removeDuplicates(int* arr, int size);
- Example:   int arr[] = {1, 2, 3, 2, 4, 3, 5};
-             int size = 7;
-             int newSize = removeDuplicates(arr, size);
-             // arr should be {1, 2, 3, 4, 5}
-             // newSize should be 5
+ Example:   -int arr[] = {1, 2, 3, 2, 4, 3, 5};
+            -int size = 7;
+            -int newSize = removeDuplicates(arr, size);
+            -// arr should be {1, 2, 3, 4, 5}
+            -// newSize should be 5
 
 
 
@@ -62,9 +62,9 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file and push it to repo
   
  Prototype: void removeSpaces(char* str);
- Example:     char str[] = "Hello, World! How are you?";
-               removeSpaces(str);
-              // str should be "Hello,World!Howareyou?"
+ Example:    -char str[] = "Hello, World! How are you?";
+             -removeSpaces(str);
+             -// str should be "Hello,World!Howareyou?"
 
 
 
@@ -75,9 +75,9 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file and push it to repo
   
  Prototype: void removeDuplicates(char* str);
- Example:     char str[] = "Hello, World!";
-               removeDuplicates(str);
-               // str should be "Helo, Wrd!"
+ Example:    -char str[] = "Hello, World!";
+             -removeDuplicates(str);
+             -// str should be "Helo, Wrd!"
 
 
 
@@ -90,11 +90,11 @@ This repository was created for practicing coding, and it concerns what we have 
    and also create your test main file and push it to repo
   
  Prototype: void rotateArray(int* arr, int size, int rotationCount);
- Example:    int arr[] = {1, 2, 3, 4, 5};
-              int size = 5;
-              int rotationCount = 2;
-              rotateArray(arr, size, rotationCount);
-              // arr should be {4, 5, 1, 2, 3}
+ Example:    -int arr[] = {1, 2, 3, 4, 5};
+             -int size = 5;
+             -int rotationCount = 2;
+             -rotateArray(arr, size, rotationCount);
+             -// arr should be {4, 5, 1, 2, 3}
 
 
           ########################  Good luck, guys! I hope you will invite me to code with you again soon. ########################
