@@ -14,11 +14,11 @@ This repository was created for practicing coding, and it concerns what we have 
 2. Choose only one question from the bellow questions.
 4. Add your user name to the README file with the question number you choose.
    ### add your user name ###
-   - question one (1)  ==  <--add your user name here-->
-   - question two (2)  ==  <--add your user name here-->
-   - question three (3)  ==  <--add your user name here-->
-   - question four (4)  ==  <--add your user name here-->
-   - question five (5)  ==  <--add your user name here-->
+   - question one (1)  ==  <--add(edit) your user name here-->
+   - question two (2)  ==  <--add(edit) your user name here-->
+   - question three (3)  ==  <--add(edit) your user name here-->
+   - question four (4)  ==  <--add(edit) your user name here-->
+   - question five (5)  ==  <--add(edit) your user name here-->
         example :  question one (1) == yadi09  <--this is just for example-->
 6. Complete your question on your local computer and push it to the repository.
 
