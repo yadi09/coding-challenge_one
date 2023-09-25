@@ -10,15 +10,16 @@ This repository was created for practicing coding, and it concerns what we have 
 
 #### follow the following steps ####
 
-1. Add some discription about yourself bellow
-   * Name:
+1. Add some discription about yourself to README.md file, at the root of the folder of the project like: 
+   * Your Name:
    * UserName:
    * tell as about yourself:
      -
      -
-     -
    * social media links:
      -
+     -
+   * and add also discribtion of the project
      -
      -
 2. Clone the repository to your local computer. in the repository and config your email < git config user.gmail <your email>> use that use also for github account
