@@ -4,7 +4,7 @@
 This repository was created for practicing coding, and it concerns what we have learned in the ALX software engineering program.
 
 
-############   coding challenge(question) that include pointer, array, string, function, in c progaramming language #####
+############   coding challenge(question) that include pointer, array, string, function, in c progaramming language #######
 
 
 
