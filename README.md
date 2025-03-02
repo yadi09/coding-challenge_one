@@ -7,7 +7,6 @@ This repository was created for practicing coding, and it concerns what we have 
 ############   coding challenge(question) that include pointer, array, string, function, in c progaramming language #####
 
 
-
 #### follow the following steps ####
 
 1. Add some discription about yourself to README.md file, at the root of the folder of the project like: 
