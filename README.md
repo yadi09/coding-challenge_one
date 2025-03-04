@@ -133,6 +133,7 @@ This repository was created for practicing coding, and it concerns what we have 
         --rotateArray(arr, size, rotationCount);
 
         --// arr should be {4, 5, 1, 2, 3}
+   
 #
 #
           ########################  Good luck, guys! I hope you will invite me to code with you again soon. ########################
